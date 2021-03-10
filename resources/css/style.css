@@ -29,3 +29,11 @@ h3 {
     font-size: 21px;
     color: gray;
 }
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 21px 0;
+}
