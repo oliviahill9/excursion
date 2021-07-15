@@ -4,7 +4,7 @@
 
 ## About
 
-The following task was set as part of Codecademy's Full Stack Engineer coure. 
+The following task was set as part of Codecademy's Full Stack Engineer course. 
 
 For this project, I built a web page designed to advertise a personal travel guide product called 'Excursion'. 
 
